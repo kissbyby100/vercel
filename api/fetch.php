@@ -2,7 +2,7 @@
 
 
 $__version__  = '3.2.6';
-$__password__ = '123456';
+$__password__ = 'passw0rd';
 $__hostsdeny__ = array(); // $__hostsdeny__ = array('.youtube.com', '.youku.com');
 $__content_type__ = 'image/gif';
 //$__content_type__ = 'text/html';
